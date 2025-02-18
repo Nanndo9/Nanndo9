@@ -5,15 +5,20 @@
 
 
 
-# **<div align="center">About me</div>**  
+# **<div align="center">Sobre</div>**  
   
 
-Hello! My name is Nanndo, I'm 20 years old, and I'm from Brazil. I am a backend developer with a passion for cloud technologies. Currently, I am pursuing a Bachelor's degree in Computer Science and exploring topics such as:
-- Microservices architecture
-- Containerized deployment (Docker, Kubernetes)
-- Cloud services (AWS, Azure)
-- Cloud security
-- Scalability and performance  
+Atualmente cursando Bacharelado em Ciência da Computação pela Universidade Estadual do Piauí, tenho experiência em desenvolvimento de software em soluções Full Stack. Como Desenvolvedor Full Stack, contribuo para projetos de remodelação de aplicações, focando na melhoria da experiência do usuário e na implementação de designs modernos e responsivos. Desenvolvi funcionalidades integrando Back-End e Front-End, aprimorando a interação entre os módulos do sistema. Utilizo tecnologias como React, Node.js, TypeScript e Docker para entregar soluções eficazes.
+
+Anteriormente, como Desenvolvedor Back-End, colaborei na criação de APIs escaláveis e seguras utilizando Node.js e Express. Tenho experiência na configuração de infraestruturas em nuvem com AWS, no desenvolvimento de sistemas de comunicação assíncrona e no gerenciamento de ambientes com Docker e ferramentas de IaC, sempre priorizando desempenho e confiabilidade.
+
+ Meu objetivo é aplicar meu conhecimento e experiência para impulsionar o crescimento de equipes e 
+projetos, entregando soluções de tecnologia de alta qualidade. Estou preparado para atuar em 
+ambientes dinâmicos, com foco na performance, melhoria contínua e entrega de produtos robustos e 
+impactantes
+
+Skills:
+React.js • Node.js • MySQL • TypeScript • Docker • Git • PostgreSQL • Inglês
   
 
   
