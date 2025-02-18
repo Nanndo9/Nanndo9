@@ -17,9 +17,6 @@ projetos, entregando soluções de tecnologia de alta qualidade. Estou preparado
 ambientes dinâmicos, com foco na performance, melhoria contínua e entrega de produtos robustos e 
 impactantes
 
-Skills:
-React.js • Node.js • MySQL • TypeScript • Docker • Git • PostgreSQL • Inglês
-  
 
   
   
