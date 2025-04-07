@@ -91,5 +91,5 @@ impactantes
 ---
 ### Currently studying
 
-![CurrentlyStudying](https://skillicons.dev/icons?i=linux,aws,postgres,bash,docker,terraform,kubernetes,typescript,express,sequelize,nodejs,angular)
+![CurrentlyStudying](https://skillicons.dev/icons?i=linux,aws,postgres,bash,docker,terraform,kubernetes,typescript,express,sequelize,nodejs,angular,java)
 
