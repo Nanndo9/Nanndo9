@@ -60,7 +60,7 @@ impactantes
 
 ###  DevOps
 
-![Devops](https://skillicons.dev/icons?i=git,docker,terraform,aws,kubernetes)
+![Devops](https://skillicons.dev/icons?i=git,docker,terraform,aws)
 
 
 
