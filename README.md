@@ -51,7 +51,7 @@ impactantes
 ###  Back-end
 
 
-![Backend](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,py,fastapi)
+![Backend](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs,py,fastapi)
 
 
 
