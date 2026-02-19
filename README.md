@@ -1,9 +1,4 @@
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&letterSpacing=large&pause=1000&color=02D4D2&width=435&lines=Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
-</div>
-
-
 
 # **<div align="center">Sobre</div>**  
   
@@ -11,16 +6,6 @@
 Desenvolvedor Full Stack com foco em Back-End com 3 anos de experiência, focado em Node.js e em construir APIs e automações confiáveis. Também atuo com Java e Spring Boot em integrações REST e SOAP (assinatura de XML). Tenho histórico de entregas que geraram 8x de ganho de produtividade e 30% de redução no tempo de processamento ao substituir rotinas manuais por pipelines assíncronos com mensageria e serviços em nuvem (AWS).
 
 Domino o ciclo completo de desenvolvimento da modelagem de dados ao deploy, com foco em código limpo, testado e sustentável (SOLID/Clean Architecture).
-
-
-  
-  
-
-  
-  
-
-  
-  
 
 
   
