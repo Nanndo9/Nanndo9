@@ -8,13 +8,13 @@ Desenvolvedor Full Stack com foco em Back-End com 3 anos de experiência, especi
 
 ## Tecnologias & Ferramentas 🛠️
 
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react)
+### Linguagens
+![Linguagens](https://skillicons.dev/icons?i=js,ts,java,py)
 
 ---
 
-### Linguagens
-![Linguagens](https://skillicons.dev/icons?i=js,ts,java,py)
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,react)
 
 ---
 
