@@ -13,8 +13,13 @@ Desenvolvedor Full Stack com foco em Back-End com 3 anos de experiência, especi
 
 ---
 
+### Linguagens
+![Linguagens](https://skillicons.dev/icons?i=js,ts,java,py)
+
+---
+
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,py,fastapi)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi)
 
 ---
 
