@@ -8,14 +8,9 @@
 # **<div align="center">Sobre</div>**  
   
 
-Atualmente cursando Bacharelado em Ciência da Computação pela Universidade Estadual do Piauí, tenho experiência em desenvolvimento de software em soluções Full Stack. Como Desenvolvedor Full Stack, contribuo para projetos de remodelação de aplicações, focando na melhoria da experiência do usuário e na implementação de designs modernos e responsivos. Desenvolvi funcionalidades integrando Back-End e Front-End, aprimorando a interação entre os módulos do sistema. Utilizo tecnologias como React, Node.js, TypeScript e Docker para entregar soluções eficazes.
+Desenvolvedor Full Stack com foco em Back-End com 3 anos de experiência, focado em Node.js e em construir APIs e automações confiáveis. Também atuo com Java e Spring Boot em integrações REST e SOAP (assinatura de XML). Tenho histórico de entregas que geraram 8x de ganho de produtividade e 30% de redução no tempo de processamento ao substituir rotinas manuais por pipelines assíncronos com mensageria e serviços em nuvem (AWS).
 
-Anteriormente, como Desenvolvedor Back-End, colaborei na criação de APIs escaláveis e seguras utilizando Node.js e Express. Tenho experiência na configuração de infraestruturas em nuvem com AWS, no desenvolvimento de sistemas de comunicação assíncrona e no gerenciamento de ambientes com Docker e ferramentas de IaC, sempre priorizando desempenho e confiabilidade.
-
- Meu objetivo é aplicar meu conhecimento e experiência para impulsionar o crescimento de equipes e 
-projetos, entregando soluções de tecnologia de alta qualidade. Estou preparado para atuar em 
-ambientes dinâmicos, com foco na performance, melhoria contínua e entrega de produtos robustos e 
-impactantes
+Domino o ciclo completo de desenvolvimento da modelagem de dados ao deploy, com foco em código limpo, testado e sustentável (SOLID/Clean Architecture).
 
 
   
