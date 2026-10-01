@@ -4,7 +4,7 @@
 
 ## Sobre mim 💡
 
-Desenvolvedor Full Stack com foco em Back-End com mais de 3 anos de experiência, especializado em Node.js, Java (Spring Boot) e Python (FastAPI), com histórico de entregas que geraram 8x de ganho de produtividade e 30% de redução no tempo de processamento.
+Desenvolvedor Full Stack com foco em Back-End com mais de 4 anos de experiência, especializado em Node.js, Java (Spring Boot) e Python (FastAPI), com histórico de entregas que geraram 8x de ganho de produtividade e 30% de redução no tempo de processamento.
 
 ## Tecnologias & Ferramentas 🛠️
 
